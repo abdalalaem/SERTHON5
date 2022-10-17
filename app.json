@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/bbhh1/matrix_userboot",
+      "value": "https://github.com/abdalalaem/aaddr2",
       "required": false
     }
   },
