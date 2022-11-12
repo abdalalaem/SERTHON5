@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "مغلقhttps://github.com/abdalalaem/aaddr2 مغلق ",
+      "value": " رابط التنصيب الجديد هذه رابط الكروب @aaddr2 ",
       "required": false
     }
   },
