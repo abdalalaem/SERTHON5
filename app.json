@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/abdalalaem/aaddr2",
+      "value": "مغلقhttps://github.com/abdalalaem/aaddr2 مغلق ",
       "required": false
     }
   },
